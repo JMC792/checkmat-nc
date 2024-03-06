@@ -8,8 +8,8 @@ import logo from "public/icons/logo.svg"
 
 export const metadata = {
   title: {
-    template: "%s | Checkmat NC",
-    default: "Checkmat NC",
+    template: "%s | Dynasty BJJ ",
+    default: "Dynasty BJJ",
   },
   description: {default: "Queen City Web Solutions is a dynamic web services provider based in Charlotte, North Carolina. Our dedicated team specializes in delivering top-tier web design and development solutions, seamlessly merging creativity and technology to craft engaging online experiences. With a strong focus on cybersecurity, we ensure that your digital journey is not only visually captivating but also fortified against potential threats."},
   appliationName: "Queen City Web Solutions",

@@ -34,7 +34,7 @@
         },
         "hero": {
             "title": "Elevate Your Skills with Brazilian Jiu Jitsu",
-            "subtitle": "Experience the art of Brazilian Jiu Jitsu at our Charlotte gym. We're dedicated to helping you master the techniques and strategies that define this martial art.",
+            "subtitle": "Experience the art of Brazilian Jiu Jitsu at Dynasty BJJ. We're dedicated to helping you master the techniques and strategies that define this martial art.",
             "button": {
                 "title": "Get Started",
                 "link": "/contact"
@@ -132,8 +132,8 @@
         },
         "mission": {
             "heading": "Our Mission",
-            "title": "Empowering Through Brazilian Jiu Jitsu",
-            "paragraph": "Our mission is to empower individuals through the practice of Brazilian Jiu Jitsu. We believe in fostering discipline, self-confidence, and physical well-being in a supportive and respectful environment. Whether you're seeking personal growth, self-defense skills, or a new way to stay fit, our gym is here to guide you on your journey.",
+            "title": "Elevating Lives Under Carlson Gracie Charlotte",
+            "paragraph": "Affiliated with the Carlson Gracie Charlotte Team, our mission is to empower through Brazilian Jiu-Jitsu, promoting personal growth, self-confidence, and fitness in a supportive environment. We emphasize both the mastery of self-defense and the excitement of BJJ competitions, offering a pathway to excellence for those seeking transformation or competitive thrill. Join us to experience the resilience, teamwork, and pursuit of excellence that define our community",
             "button": {
                 "title": "Get in Touch",
                 "link": "/contact"
@@ -205,7 +205,7 @@
         "about2": {
             "heading" : "Empowering Excellence in BJJ",
             "title" : "Jiu-Jitsu Mastery through Inspiring Leadership",
-            "paragraph": "Professor Paulo 'Mushu' Elsimaani stands as a distinguished figure in the realm of Brazilian Jiu-jitsu (BJJ), boasting an esteemed 5th-degree Black Belt and the coveted title of World Champion. He serves as the esteemed Head BJJ Professor/Coach at CheckMat North Carolina, where his expertise and guidance shape the future of this martial art.",
+            "paragraph": "Professor Paulo 'Mushu' Elsimaani stands as a distinguished figure in the realm of Brazilian Jiu-jitsu (BJJ), boasting an esteemed 5th-degree Black Belt and the coveted title of World Champion. He serves as the esteemed Head BJJ Professor/Coach at Dynasty BJJ of Carlson Gracie Team Charlotte North Carolina, where his expertise and guidance shape the future of this martial art.",
             "button": {
                 "title": "Contact Us",
                 "link": ""
@@ -226,7 +226,7 @@
             },
             "three" : {
                 "title": "Email",
-                "date": "checkmatnc@gmail.com",
+                "date": "dynastybjj@gmail.com ",
                 "time": "",
                 "alt": "email"
             }
@@ -396,12 +396,12 @@
     },
     "footer": {
         "overview": {
-            "title" : "Checkmat NC",
-            "paragraph" : "Checkmat NC is a premier Brazilian Jiu-Jitsu gym located in the heart of Charlotte, North Carolina. Our expert instructors are committed to providing comprehensive training in both the art and science of Brazilian Jiu-Jitsu, offering a safe and welcoming environment for practitioners of all skill levels. With a curriculum designed to enhance physical fitness, mental resilience, and self-defense capabilities, Checkmat NC is more than just a gym—it's a community dedicated to empowering individuals through the transformative power of martial arts",
+            "title" : "Dynasty BJJ of Carlson Gracie Team Charlotte",
+            "paragraph" : "Dynasty BJJ of Carlson Gracie Team Charlotte is a premier Brazilian Jiu-Jitsu gym located in the heart of Charlotte, North Carolina. Our expert instructors are committed to providing comprehensive training in both the art and science of Brazilian Jiu-Jitsu, offering a safe and welcoming environment for practitioners of all skill levels. With a curriculum designed to enhance physical fitness, mental resilience, and self-defense capabilities, Dynasty BJJ of Carlson Gracie Team Charlotte is more than just a gym—it's a community dedicated to empowering individuals through the transformative power of martial arts",
             "phoneNumber" : "(513)-206-2764",
-            "email" : "Checkmatnc@gmail.com",
+            "email" : "dynastybjj@gmail.com ",
             "address" : "9044 Lawyers Rd Suite G, Charlotte, NC 28227",
-            "addressLink" : "Checkmatnc@gmail.com"
+            "addressLink" : "dynastybjj@gmail.com "
         },
         "usefulLinks": {
             "title": "Useful Links",
@@ -441,8 +441,8 @@
                 "link": "tel: (513)-206-2764"
             },
             "link2" : {
-                "title":"Checkmatnc@gmail.com",
-                "link": "mailto: Checkmatnc@gmail.com"
+                "title":"dynastybjj@gmail.com ",
+                "link": "mailto: dynastybjj@gmail.com "
             }
         },
         "trademark":{

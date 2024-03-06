@@ -104,7 +104,7 @@ function Navbar(props) {
                             </div>
 
                             {/* External Link/Language */}
-                             <div className="hidden lg:flex">
+                            {/* <div className="hidden lg:flex">
                                 <div className="text-[16px] font-medium hover:text-yellow-600 transition-colors delay-100">
                                     <Link href={props.external1[1]} scroll={false}>
                                         <div className="capitalize">
@@ -112,7 +112,7 @@ function Navbar(props) {
                                         </div>
                                     </Link>
                                 </div>
-                            </div> 
+                            </div>  */}
 
                             {/* Contact Us */}
                             <div className="hidden lg:grid">
