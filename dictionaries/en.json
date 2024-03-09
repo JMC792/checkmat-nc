@@ -94,7 +94,7 @@
                 "time3": "6:30pm - 7:45pm",
                 "time4": "7:45pm - 8:45pm",
                 "time5": "7:30pm - 8:30pm",
-                "time6": "11:00pm - 1:00pm",
+                "time6": "11:0am",
                 "time7": "6:30pm - 7:30pm",
                 "time8": "closed"
             },
@@ -102,11 +102,12 @@
                 "gi": "Gi",
                 "nogi": "No-Gi",
                 "kidsgi": "Kids Gi",
-                "fundamentals": "Fundamentals",
+                "fundamentals": "Gi Fundamentals",
                 "advanced": "Advanced",
                 "openmat": "Open Mat",
                 "muaythai": "Muay Thai",
-                "closed": "Closed"
+                "closed": "Closed",
+                "all": "All Levels"
             }
         },
         "testimonial": {
