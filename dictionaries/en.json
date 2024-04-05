@@ -102,11 +102,12 @@
                 "gi": "Gi",
                 "nogi": "No-Gi",
                 "kidsgi": "Kids Gi",
-                "fundamentals": "Fundamentals",
+                "fundamentals": "Gi Fundamentals",
                 "advanced": "Advanced",
                 "openmat": "Open Mat",
                 "muaythai": "Muay Thai",
-                "closed": "Closed"
+                "closed": "Closed",
+                "all": "All Levels"
             }
         },
         "testimonial": {

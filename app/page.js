@@ -81,7 +81,7 @@ export default function Page() {
                     //Monday
                     [
                         language.index.stat.days.monday,
-                        [language.index.stat.class.gi,language.index.stat.times.time1],
+                        [language.index.stat.class.all,language.index.stat.times.time6],
                         [language.index.stat.class.nogi,language.index.stat.times.time3],
                         [language.index.stat.class.fundamentals,language.index.stat.times.time4],
                     ],
@@ -95,7 +95,7 @@ export default function Page() {
                     //Wednesday
                     [
                         language.index.stat.days.wednesday,
-                        [language.index.stat.class.gi,language.index.stat.times.time1],
+                        [language.index.stat.class.all,language.index.stat.times.time6],
                         [language.index.stat.class.kidsgi,language.index.stat.times.time2],
                         [language.index.stat.class.muaythai,language.index.stat.times.time7],
                         [language.index.stat.class.nogi,language.index.stat.times.time5],
@@ -105,7 +105,7 @@ export default function Page() {
                     //Friday
                     [
                         language.index.stat.days.friday,
-                        [language.index.stat.class.openmat,language.index.stat.times.time7]
+                        [language.index.stat.class.all,language.index.stat.times.time6]
                     ],
                     //Saturday
                     [
